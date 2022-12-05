@@ -33,7 +33,7 @@
 
    <h1> Thank you :) </h1>
 
-   <h1> Have a nice day!! </h1>
+   <h1> Have a wonderful week! </h1>
 
   
 </form>
